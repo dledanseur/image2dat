@@ -1,0 +1,16 @@
+{
+  "name": "image2dat",
+  "version": "1.0.0",
+  "description": "Tool to create a dat archive ready to be downloaded via the dat-registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat-node": "^3.5.15",
+    "rimraf": "^2.6.3",
+    "tar": "^4.4.8"
+  }
+}
